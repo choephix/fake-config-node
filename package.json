@@ -1,0 +1,19 @@
+{
+  "name": "fake-config-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/choephix/fake-config-node.git"
+  },
+  "author": "cx",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/choephix/fake-config-node/issues"
+  },
+  "homepage": "https://github.com/choephix/fake-config-node#readme"
+}
